@@ -5,6 +5,6 @@ first repository in git hub
 <title>hai</title>
 </head>
 <body>
-<h1>Welcome to ra</h1>
+<h1>Welcome to github</h1>
 </body>
 </html>
